@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.no-outline {
+    /*outline: none !important;
+    box-shadow: none !important;*/
+}
